@@ -18,6 +18,17 @@ body {
     color: white;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
 }
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.center-image {
+    max-width: 100%;
+    height: auto;
+}
+
 .banner h1 {
     font-size: 3rem;
 }
